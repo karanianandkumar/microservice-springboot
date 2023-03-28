@@ -1,0 +1,7 @@
+/Users/anandkumar/Files/Programming/Springboot/ecomerce/microservices-new/product-service/src/main/java/com/anandkumar/productservice/repository/ProductRepository.java
+/Users/anandkumar/Files/Programming/Springboot/ecomerce/microservices-new/product-service/src/main/java/com/anandkumar/productservice/ProductServiceApplication.java
+/Users/anandkumar/Files/Programming/Springboot/ecomerce/microservices-new/product-service/src/main/java/com/anandkumar/productservice/controller/ProductController.java
+/Users/anandkumar/Files/Programming/Springboot/ecomerce/microservices-new/product-service/src/main/java/com/anandkumar/productservice/dto/ProductResponse.java
+/Users/anandkumar/Files/Programming/Springboot/ecomerce/microservices-new/product-service/src/main/java/com/anandkumar/productservice/dto/ProductRequest.java
+/Users/anandkumar/Files/Programming/Springboot/ecomerce/microservices-new/product-service/src/main/java/com/anandkumar/productservice/service/ProductService.java
+/Users/anandkumar/Files/Programming/Springboot/ecomerce/microservices-new/product-service/src/main/java/com/anandkumar/productservice/model/Product.java

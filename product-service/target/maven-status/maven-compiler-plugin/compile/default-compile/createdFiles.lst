@@ -1,0 +1,10 @@
+com/anandkumar/productservice/dto/ProductRequest$ProductRequestBuilder.class
+com/anandkumar/productservice/repository/ProductRepository.class
+com/anandkumar/productservice/model/Product$ProductBuilder.class
+com/anandkumar/productservice/dto/ProductResponse$ProductResponseBuilder.class
+com/anandkumar/productservice/dto/ProductRequest.class
+com/anandkumar/productservice/ProductServiceApplication.class
+com/anandkumar/productservice/dto/ProductResponse.class
+com/anandkumar/productservice/service/ProductService.class
+com/anandkumar/productservice/model/Product.class
+com/anandkumar/productservice/controller/ProductController.class
